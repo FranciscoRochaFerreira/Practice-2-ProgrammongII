@@ -1,0 +1,11 @@
+bin/
+docs/
+*.class
+*.jar
+*.log
+*.tmp
+.DS_Store
+*.swp
+target/
+*.iml
+.idea/
